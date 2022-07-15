@@ -15,3 +15,8 @@ void PRINT_ThankYou(void)
 {
     printf("ThankYou");
 }
+
+void PRINT_Okay(void)
+{
+    printf("Okay");
+}
