@@ -5,3 +5,8 @@ void PRINT_hello(void)
 {
     printf("hello");
 }
+
+void PRINT_Bye(void)
+{
+    printf("Bye");
+}
