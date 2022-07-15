@@ -10,3 +10,8 @@ void PRINT_Bye(void)
 {
     printf("Bye");
 }
+
+void PRINT_ThankYou(void)
+{
+    printf("ThankYou");
+}
