@@ -3,8 +3,3 @@ void PRINT_Okay(void)
 {
     printf("Okay");
 }
-
-void PRINT_Fighting(void)
-{
-    printf("Fighting");
-}
