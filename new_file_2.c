@@ -27,8 +27,15 @@ void PRINT_Fighting(void)
 }
 
 // create new file NA
+<<<<<<< HEAD
 
 // test amend 2
 
 
+=======
+<<<<<<< HEAD
+// test git amend
+=======
+>>>>>>> e83a41daec7d1abece7fd9e9670a2fc7208cb786
+>>>>>>> 6dffa77b4322fc1d65b2b5e23bc55f8058435823
 ///End comment
